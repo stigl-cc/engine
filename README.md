@@ -3,6 +3,8 @@
 This game engine is completely wireframe and runs only on CPU! <br>
 [LICENSE](LICENSE.md) - [CONTRIBUTING](CONTRIBUTING.md) <br>
 
+![example of the rasterized demo scene](example.png)
+
 ### Why did I decide to make this engine?
 
 I wanted to attempt to do a project using 2 technigues:
